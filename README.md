@@ -18,6 +18,7 @@ made it since I needed a plugin to tell me when the server starts and gets off s
 ___
 
 The official upstream repository for the **InitiateTerminate** project is at https://github.com/HyoukaKu/InitiateTerminate.
+Or in Spigot at https://www.spigotmc.org/resources/initiateterminate.109189/.
 
 
 * **InitiateTerminate requires CraftBukkit, Spigot or Paper to run.** Other server software may work, but these are not tested
