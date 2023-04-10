@@ -1,0 +1,10 @@
+# Config file for InitiateTerminate
+
+# On Start run command
+delay: 5 #Seconds
+start_command: 'echo I am the Enable Command and delayed 5 seconds after server start'
+
+
+# On Stop run command
+stop_command: 'echo I am the Stop Command and am runned when the server turns off due crash or normal stop'
+#

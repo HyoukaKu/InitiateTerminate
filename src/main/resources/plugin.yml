@@ -1,0 +1,20 @@
+name: InitiateTerminate
+version: '${project.version}'
+main: hyoukaku.apocrypha.Main
+author: HyoukaKu
+api-version: 1.19
+description: InitiateTerminate is a plugin that runs a command on the start and stop of the server
+
+commands:
+  initiateterminate-reload:
+    description: to reload the plugin configurations
+    aliases: [initerm, initterm]
+    executor: reload
+    default: op
+
+#
+#    children:
+#      initiateterminate-reload:
+#        description: Reloads the plugin configuration.
+#        permission: initiateterminate.command
+#        default: op
