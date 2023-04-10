@@ -17,7 +17,7 @@ made it since I needed a plugin to tell me when the server starts and gets off s
 
 ___
 
-The official upstream repository for the **InitiateTerminate** project is at https://github.com/Essentials/Essentials.
+The official upstream repository for the **InitiateTerminate** project is at https://github.com/HyoukaKu/InitiateTerminate.
 
 
 * **InitiateTerminate requires CraftBukkit, Spigot or Paper to run.** Other server software may work, but these are not tested
@@ -28,5 +28,5 @@ It may work in other versions bu this is the tested on
 * **InitiateTerminate currently requires Java 17 or higher.** I recommend using the latest Java version supported by your server software
 
 ## Support
-If you need to report a bug or want to suggest a new feature, you can [open an issue on GitHub]().
+If you need to report a bug or want to suggest a new feature, you can [open an issue on GitHub](https://github.com/HyoukaKu/InitiateTerminate/issues).
 
